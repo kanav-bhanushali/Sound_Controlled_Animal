@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'Rubik Puddles', cursive; 
+  background: cyan;
+}
+
+.header_div
+  {
+  background: #638c8f;
+  color: white; 
+  }
+
+  .header_div p{
+font-family: 'Pangolin', cursive;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .main_div button{
+    font-family: 'Dancing Script', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+
+  
+  .copy_right_footer {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   position: fixed;
+   color: #000000;
+   bottom: 0;
+   width: 100%;
+   font-size: 18px;
+   background-color: #ff0000;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(79, 73, 73);
+}
